@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-MIXED-SIGNAL",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "1ad5000fde2acc507dd8ae86cef9be7aec9229a82d54ad09810e6dd23512adc2"
+    "sha256": "506f3ba07aa4f659695548e93a0dab9fa1bb6823e73988df377466084f019cab"
   }
 }

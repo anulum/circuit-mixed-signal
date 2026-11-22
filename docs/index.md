@@ -12,4 +12,6 @@ CIRCUIT-MIXED-SIGNAL — repository foundation
 
 Circuit Mixed-Signal is being built to coordinate coupled digital, analogue and electro-optic co-simulation through Circuit Flow — verifying compositional assume-guarantee boundary contracts, calibrated behavioural macromodel error bounds, multi-rail power ramp sequencing, phase-locked-loop lock qualification and synchronous reset release ordering — completely deterministically without AI. Its current executable surface is repository validation tooling. It has no installed mixed-signal co-simulation runner, macromodel calibrator, sequencing checker or qualified record schema.
 
+Circuit Mixed-Signal is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).
