@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for deterministic coupled digital, analogue and electro-optic co-simulation: assume-guarantee boundary contracts, calibrated behavioural macromodel error bounds, multi-rail power ramp sequencing, phase-locked-loop lock qualification and synchronous reset release ordering. No mixed-signal co-simulation runner, macromodel calibrator, sequencing checker or qualified record schema is released.",
+  "keywords": [
+    "mixed-signal co-simulation",
+    "behavioural macromodel calibration",
+    "power and reset sequencing",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Mixed-Signal",
+  "upload_type": "software"
+}
